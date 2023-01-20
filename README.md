@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Lifelong Student, who has passion for programming and technology with advance exprience Full Stack Developing in Javascript.
+A Lifelong Learner, who has passion for programming and technology with advance exprience Full Stack Developing in Javascript.
 
 
 ## 🌐 Socials:
