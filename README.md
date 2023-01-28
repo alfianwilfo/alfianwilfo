@@ -19,5 +19,3 @@ A Lifelong Learner, who has passion for programming and technology with advance 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alfianwilfo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=wilfoLaravel)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
