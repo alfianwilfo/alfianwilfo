@@ -1,9 +1,7 @@
 # 💫 About Me:
-A Lifelong Learner, who has passion for programming and technology with advance exprience Full Stack Developing in Javascript. And currently learn NuxtJS and NextJS
+A Lifelong Learner, who has passion for programming and technology with advance exprience Full Stack Developing in Javascript. And currently learn NuxtJS and NextJS [![](https://visitcount.itsvg.in/api?id=alfianwilfo&icon=9&color=7)](https://visitcount.itsvg.in)
 
 
-----
-[![](https://visitcount.itsvg.in/api?id=alfianwilfo&icon=9&color=7)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
